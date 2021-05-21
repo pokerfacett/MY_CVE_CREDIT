@@ -2,7 +2,7 @@
 China Mobile An Lianbao WF-1 router is an AX1800 router based on Qualcomm's five-core processor. It adopts a new generation of 11AX technology, 2.4G and 5G dual-band concurrently, and can provide a wireless rate of 1800M, providing high-speed and stable WiFi coverage
 
 # Description
-China Mobile An Lianbao WF-1 router provide web interface /api/ZRMacClone/mac_addr_clone which receive parameters by POST request, and the parameter MLD_PROXY_WAN_CONNECT has a command injection vulnerability, An attacker can use the vulnerability to execute remote commands
+China Mobile An Lianbao WF-1 router provide web interface /api/ZRMacClone/mac_addr_clone which receive parameters by POST request, and the parameter macType has a command injection vulnerability, An attacker can use the vulnerability to execute remote commands
 
 # Affect Versions
 V1.0.1
@@ -13,6 +13,8 @@ V1.0.1
 Interface mac_addr_clone recevice params from post request as follow：
 
 ![image](https://user-images.githubusercontent.com/13774458/119130694-1c0fda00-ba6b-11eb-9d91-9d454f78e1b2.png)
+
+![image](https://user-images.githubusercontent.com/13774458/119131064-93de0480-ba6b-11eb-952c-cd476436aee7.png)
 
 here will pass param macType to logger which cause command injection
 
