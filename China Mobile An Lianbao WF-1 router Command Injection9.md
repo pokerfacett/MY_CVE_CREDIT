@@ -20,8 +20,6 @@ here will pass param macType to logger which cause command injection
 
 result of POC is：
 
-![image](https://user-images.githubusercontent.com/13774458/119130855-57120d80-ba6b-11eb-8013-4aee44e4164c.png)
-
 ![image](https://user-images.githubusercontent.com/13774458/119130870-5bd6c180-ba6b-11eb-89d9-a2506d62409d.png)
 
 
