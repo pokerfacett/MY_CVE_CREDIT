@@ -65,8 +65,8 @@ The patch of Allwinner is as follow:
 
 
 ## References
-https://www.cnvd.org.cn/flaw/show/CNVD-2021-46171
+https://www.cnvd.org.cn/flaw/show/CNVD-2021-49171
 
-https://vul.wangan.com/a/CNVD-2021-46171
+https://vul.wangan.com/a/CNVD-2021-49171
 
 https://www.allwinnertech.com/index.php?c=product&a=index&id=92
