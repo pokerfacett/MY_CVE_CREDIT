@@ -8,7 +8,9 @@ There is a Integer Overflow in the ION driver "/dev/ion". An third-app could use
 
 ## Affect Versions
 Soc: Allwinner R818 
+
 System: R818 Android Q 
+
 SDK Version: V1.0 
 
 ## POC
@@ -62,6 +64,10 @@ The dmesg is as follows:
 The patch of Allwinner is as follow:
 
 ![image](https://user-images.githubusercontent.com/13774458/129023971-66f2c282-8812-4ac7-9aa1-fb4dbad80cdd.png)
+
+## Reporter
+
+Lewei Qu and Dongxiang Ke
 
 
 ## References
