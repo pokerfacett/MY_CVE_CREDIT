@@ -34,6 +34,7 @@ ret = ioctl(g_alloc_context->fd, ION_IOC_SUNXI_FLUSH_RANGE, &range);
 ```
 
 After configuring the CONFIG_ARM64 compilation, the __dma_flush_range function will be called, if the CONFIG_ARM64 option is configured, the size will be passed into the __dma_flush_range function
+
 ![image](https://user-images.githubusercontent.com/13774458/129023602-2d450014-2954-4345-9e65-4e0d5224402e.png)
 
 Will cause out-of-bounds, and there will be no problem if CONFIG_ARM64 is not configured
