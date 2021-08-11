@@ -19,7 +19,7 @@ The problem code is as follow:
 Here there is an integer overflow at size. If end <start, size will become a very large number, and start and end are user-mode controllable parameters. The structure is as follows:
 
 ```
-ypedef struct
+typedef struct
 {
     long    start;
     long    end;
