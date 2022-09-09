@@ -223,6 +223,61 @@ CVE-2022-35624
 
 
 
+## Paper
+Blackhat Europe 2021 BadMesher: New Attack Surfaces of Wi-Fi Mesh Network	Lewei Qu,Dongxiang Ke,Ye Zhang, Ying Wang	https://www.blackhat.com/eu-21/briefings/schedule/#badmesher-new-attack-surfaces-of-wi-fi-mesh-network-24181
+
+Blackhat Aisa 2022	Unix Domain Socket: A Hidden Door Leading to Privilege Escalation in The Android Ecosystem	Dongxiang Ke, Lewei Qu, Han Yan,Daozheng Lin	https://www.blackhat.com/asia-22/briefings/schedule/#unix-domain-socket-a-hidden-door-leading-to-privilege-escalation-in-the-android-ecosystem-25774
+
+Blackhat USA 2022	BrokenMesh: New Attack Surfaces of Bluetooth Mesh	Han Yan, Lewei Qu, Dongxiang Ke	https://www.blackhat.com/us-22/briefings/schedule/#brokenmesh-new-attack-surfaces-of-bluetooth-mesh-26853
+
+## Acknowledgement
+
+ORACLE	"https://security.gentoo.org/glsa/202004-02
+http://www.oracle.com/technetwork/security-advisory/cpuoct2019-5072832.html"
+
+OPPO	https://security.oppo.com/en/noticeDetail?notice_only_key=NOTICE-1357213888449617920
+
+Mediatek	https://corp.mediatek.com/product-security-acknowledgements，2021.2月份致谢
+
+Mediatek	https://corp.mediatek.com/product-security-acknowledgements，2021.3月份致谢
+
+Mediatek	https://corp.mediatek.com/product-security-acknowledgements，2021.5月份致谢
+
+Mediatek	https://corp.mediatek.com/product-security-acknowledgements，2022.1月份致谢
+
+Mediatek	https://corp.mediatek.com/product-security-acknowledgements，2022.2月份致谢
+
+Android	https://source.android.com/security/overview/acknowledgements，2022.1月Android产品安全致谢
+
+Android	https://source.android.com/security/overview/acknowledgements，2022.2月Android产品安全致谢，致谢三次
+
+小米	https://trust.mi.com/zh-CN/misrc/bulletins/advisory?cveId=134
+
+Mediatek	https://corp.mediatek.com/product-security-acknowledgements，2022.5月份致谢
+
+Mediatek	https://corp.mediatek.com/product-security-acknowledgements，2022.6月份致谢
+
+ESP 致谢	https://github.com/espressif/esp-idf/security/advisories/GHSA-7f7f-jj2q-28wm
+
+Mediatek	https://corp.mediatek.com/product-security-acknowledgements，2022.7月份致谢
+
+Android	https://source.android.com/security/overview/acknowledgements，2022.7月Android产品安全致谢，致谢三次
+
+Mediatek	https://corp.mediatek.com/product-security-acknowledgements，2022.8月份致谢
+
+zephyr	"https://github.com/zephyrproject-rtos/zephyr/security/advisories/GHSA-j7v7-w73r-mm5x
+https://github.com/zephyrproject-rtos/zephyr/security/advisories/GHSA-p449-9hv9-pj38"
+
+Unisoc	https://www.unisoc.com/en_us/secy/announcementDetail/1532207478131986434，2022.1月份致谢
+	https://www.unisoc.com/en_us/secy/announcementDetail/1532206380499406850，2022.2月份致谢
+
+Mediatek	https://corp.mediatek.com/product-security-acknowledgements，2022.9月份致谢
+
+Realtek	https://www.realtek.com/en/cu-1-en/cu-1-taiwan-en
+
+
+
+
 
 
 
