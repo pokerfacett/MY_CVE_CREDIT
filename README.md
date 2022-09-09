@@ -276,6 +276,39 @@ Mediatek	https://corp.mediatek.com/product-security-acknowledgements，2022.9月
 Realtek	https://www.realtek.com/en/cu-1-en/cu-1-taiwan-en
 
 
+## PR
+
+*Wi-Fi Mesh中的安全攻击面*
+
+百度安全实验室：Black Hat Europe 2021议题解读:Wi-Fi Mesh中的安全攻击面:https://mp.weixin.qq.com/s/GUab_Cz-PlEUJXNuyiVTLQ
+
+四大研究成果入选 百度安全在Black Hat Europe 2021再创历史：https://mp.weixin.qq.com/s/pX9NdsUI9LHbmVi7mTvVNA
+
+*发现Wi-Fi模块多处高危漏洞 百度安全获联发科公开致谢*
+
+https://mp.weixin.qq.com/s/QdqJRGzeOwJuQemIAfSSPQ
+
+*Unix Domain Socket：安全生态系统中通往权限提升的暗门*
+
+百度安全实验室：Black Hat Aisa 2022议题解读：Unix Domain Socket：安全生态系统中通往权限提升的暗门:https://mp.weixin.qq.com/s/4MCmx4zrNL-nd6J3Y1Bp3g
+
+双入选！百度AIoT安全在UDS及ION驱动的研究在Black Hat ASIA 2022上发表:http://agroup.baidu.com/duerossecure/view/office/4730539
+
+*小度获得ISO三项安全隐私认证*
+
+"喜讯！小度荣获3项业界重量级信息安全认证！https://mp.weixin.qq.com/s/wAiW5Qzd9wl7vrh8hPJxBw
+
+百度安全携手小度通过ISO/IEC三大信息安全国际顶级认证https://mp.weixin.qq.com/s/jbD6Oh8y_PbZaFeCGR0bnA
+
+多项权威认证！我们小度竟然这么强！https://mp.weixin.qq.com/s/pDiOOSu6TeRpzWebINnhPA"
+
+*BlackHat USA 2022议题解读*
+
+百度安全在蓝牙Mesh与Linux fd的研究 双料入选Blackhat 2022 USAhttps://mp.weixin.qq.com/s/oeJxs0hVnj7jkWkgWdn40g，
+
+BlackHat USA 2022议题解读：蓝牙Mesh中的安全攻击面https://mp.weixin.qq.com/s/yNzwmPf0n9QlMXchJEsY-Q
+
+OASSES联盟宣传：https://www.oasesalliance.com/news-details/alliance/432
 
 
 
