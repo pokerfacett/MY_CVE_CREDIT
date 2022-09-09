@@ -1,1 +1,15 @@
-# MY_CVE_CREDIT
+# MY_CREDIT
+
+
+## CVE
+
+OSS
+
+Platinum UPnP SDK 1.2.0：CVE-2019-16903
+
+Oracle
+
+CVE-2019-3021
+
+ESP IDF
+
